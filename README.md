@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="assets/img/REMARK.png" alt="remark-blackout logo" width="180" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/remark-blackout"><img src="https://img.shields.io/npm/v/remark-blackout.svg" alt="npm version" /></a>
+  <a href="https://www.npmjs.com/package/remark-blackout"><img src="https://img.shields.io/npm/dm/remark-blackout.svg" alt="npm downloads" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/npm/l/remark-blackout.svg" alt="MIT license" /></a>
+</p>
+
+<br/>
+
 # remark-blackout
 
 A tiny [remark](https://github.com/remarkjs/remark) plugin that makes it easy to
