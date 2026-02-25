@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/REMARK.png" alt="remark-blackout logo" width="180" />
+  <img src="https://raw.githubusercontent.com/lupodevelop/remark-blackout/356c7e5396cc546ff412a8d66ea86f99585c6d78/assets/img/REMARK.png" alt="remark-blackout logo" width="180" />
 </p>
 
 <br/>
