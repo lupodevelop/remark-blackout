@@ -1,0 +1,48 @@
+{
+  "name": "remark-blackout",
+  "version": "1.0.0",
+  "description": "A tiny remark plugin that turns :::spoiler directives into blacked-out elements, for use with Astro and remark.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "remark",
+    "remark-plugin",
+    "spoiler",
+    "blackout",
+    "redact",
+    "markdown",
+    "astro",
+    "directive"
+  ],
+  "author": "lupodevelop",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lupodevelop/remark-blackout"
+  },
+  "homepage": "https://github.com/lupodevelop/remark-blackout#readme",
+  "bugs": {
+    "url": "https://github.com/lupodevelop/remark-blackout/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "peerDependencies": {
+    "remark-directive": ">=2.0.0"
+  },
+  "dependencies": {
+    "unist-util-visit": "^4.1.0",
+    "mdast-util-to-string": "^3.0.0"
+  },
+  "devDependencies": {
+    "unified": "^11.0.0",
+    "remark-parse": "^11.0.0",
+    "remark-directive": "^3.0.0",
+    "remark-stringify": "^11.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
